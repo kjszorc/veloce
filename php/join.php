@@ -65,7 +65,7 @@
             </div>
 
             <div class="panel-body">
-              <p>We currently have a general meeting every Tuesday at 7:00pm. It is located the Engineering Student Project Laboratory, 153 MEB, or the John Deere Pavilion (2005) at the Mechanical Engineering Laboratory. Please check the Google Group for updated meeting information.</p>
+              <p>We currently have a general meeting every Tuesday at 7:00pm. It is located at the Transportation Building in room 101. Please check the Google Group for updated meeting information.</p>
 
               <iframe style="padding-top:15px" width="100%" height="400px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://mapsengine.google.com/map/u/0/embed?mid=z9p9_kmSJe0U.kQs8bfI-t584"></iframe>
 
